@@ -15,4 +15,11 @@ A minimalist, Notion-light-mode styled tab navigation widget for seamless embedd
 3. Under “Build and deployment”, set:
    - Source: `Deploy from branch`
    - Branch: `main` (folder `/ (root)`)
-4. After 1–2 minutes, your widget will be live at:
+4. After 1–2 minutes, your widget will be live at:https://yourusername.github.io/notion-light-tabs/
+5. Copy that link and embed in Notion using `/embed`.
+
+## 🪙 Selling Templates
+You can use and sell this as part of your Notion templates, as long as:
+- You own or modify the code yourself.
+- You don’t resell someone else’s licensed version.
+
